@@ -10,7 +10,7 @@ dependencies:
 
   cupertino_icons: ^1.0.8
   livekit_client:
-    path: ../client-sdk-flutter
+    path: ../../../client-sdk-flutter
   http: ^1.0.0
   flutter_dotenv: ^5.2.1
   livekit_server_sdk: ^1.0.1
